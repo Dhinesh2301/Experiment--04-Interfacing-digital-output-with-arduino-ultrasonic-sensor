@@ -106,6 +106,8 @@ else
 ### Distance vs measurement table 
 ![WhatsApp Image 2024-03-11 at 11 57 13_87be4819](https://github.com/Dhinesh2301/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/151379545/0fc93370-8f07-46d2-ad56-9f4c8b7016f5)
 
+   Average error = sum/ number of readings
+
 ### Graph :
 ![WhatsApp Image 2024-03-11 at 11 57 16_863c06b3](https://github.com/Dhinesh2301/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/151379545/813d6cd6-e9c7-45ed-af32-2ad3d5e371ec)
 
